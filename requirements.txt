@@ -1,0 +1,12 @@
+scipy
+scikit-learn
+numpy
+igraph
+# For Figure Plotting
+matplotlib
+seaborn
+#-i https://download.pytorch.org/whl/cu118
+torch 
+torchvision 
+torchaudio
+
