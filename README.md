@@ -17,7 +17,7 @@ Note: this code is tested under python3.9 and pytorch build 2.2.2 with CUDA11.8.
 ## Usage
 To run a model, simply run `python main.py` and you will obtain relevant code outputs.
 
-The dataset generation and loading scripts can be found in the data folder.
+The dataset generation and loading scripts can be found in the data folder. And the SACHS dataset can be downloaded in the [link](https://github.com/snarles/causal/blob/master/bnlearn_files/sachs.data.txt).
 
 ## Other
 
